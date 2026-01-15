@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pankarpratiksha50&label=Profile%20views&color=0e75b6&style=flat" alt="pankarpratiksha50" /> </p>
 
-- 🔭 🔭 I’m currently pursueing on **Electronic and Telecommuniacation Engineering.**
+- 🔭 I’m currently pursueing on **Electronic and Telecommuniacation Engineering.**
 
 - 🌱 I’m currently learning **Azure Data Factory.**
 
