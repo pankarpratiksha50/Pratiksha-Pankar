@@ -17,7 +17,7 @@
   align="right" 
   src="https://raw.githubusercontent.com/pankarpratiksha50/Pratiksha-Pankar/main/download.png" 
   width="350"
-  style="margin-top: 0; margin-left: 20px;"
+  style="margin-top: -20; margin-left: 20px;"
 />
 
 
