@@ -13,11 +13,12 @@
 
 - ⚡ Fun fact **I'm funny.**
 
-  <img 
+ <img 
   align="right" 
-  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-  style="width: 380px; max-width: 100%; height: auto; margin-left: 20px; margin-top: 10px;"
+  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
+  width="300"
 />
+
 
 
 <h3 align="left">Connect with me:</h3>
