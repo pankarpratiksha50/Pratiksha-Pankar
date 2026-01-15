@@ -13,11 +13,11 @@
 
 - ⚡ Fun fact **I'm funny.**
 
- <img 
-  align="right" 
-  src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"
-  width="300"
-/>
+<img align="right" src="https://raw.githubusercontent.com/pankarpratiksha50/pankarpratiksha50/main/girl-coding.png" width="300"/>
+
+<h1>Hi 👋, I'm Pratiksha Pankar</h1>
+<h3>I'm a passionate developer skilled in Full Stack Web Development, Data Analysis, and DSA using Java.</h3>
+
 
 
 
