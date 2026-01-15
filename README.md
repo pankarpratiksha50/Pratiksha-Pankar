@@ -13,6 +13,13 @@
 
 - ⚡ Fun fact **I'm funny.**
 
+  <img 
+  align="right" 
+  src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+  style="width: 380px; max-width: 100%; height: auto; margin-left: 20px; margin-top: 10px;"
+/>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pratiksha pankar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pratiksha pankar" height="30" width="40" /></a>
