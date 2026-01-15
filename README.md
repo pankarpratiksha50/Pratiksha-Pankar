@@ -16,7 +16,8 @@
 <img 
   align="right" 
   src="https://raw.githubusercontent.com/pankarpratiksha50/Pratiksha-Pankar/main/download.png" 
-  width="450"
+  width="850"
+  margin-top="500"
 />
 
 
