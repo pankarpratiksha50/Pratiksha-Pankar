@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I'm funny.**
 
-<img align="right" src="[https://raw.githubusercontent.com/pankarpratiksha50/pankarpratiksha50/main/girl-coding.png](https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l)" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/pankarpratiksha50/pankarpratiksha50/main/girl-coding.png" width="300"/>
 
 
 
