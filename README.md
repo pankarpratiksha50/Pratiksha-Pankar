@@ -13,10 +13,7 @@
 
 - ⚡ Fun fact **I'm funny.**
 
-<img align="right" src="https://raw.githubusercontent.com/pankarpratiksha50/pankarpratiksha50/main/girl-coding.png" width="300"/>
-
-<h1>Hi 👋, I'm Pratiksha Pankar</h1>
-<h3>I'm a passionate developer skilled in Full Stack Web Development, Data Analysis, and DSA using Java.</h3>
+<img align="right" src="[https://raw.githubusercontent.com/pankarpratiksha50/pankarpratiksha50/main/girl-coding.png](https://lottiefiles.com/free-animation/girl-on-computer-with-idea-vKx1wtZe5l)" width="300"/>
 
 
 
