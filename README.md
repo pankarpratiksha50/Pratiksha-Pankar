@@ -13,7 +13,8 @@
 
 - ⚡ Fun fact **I'm funny.**
 
-<img align="right" src="[Download.png](https://github.com/pankarpratiksha50/Pratiksha-Pankar/blob/main/download.png)" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/pankarpratiksha50/Pratiksha-Pankar/main/download.png" width="300"/>
+
 
 
 
